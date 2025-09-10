@@ -15,14 +15,14 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://Hamsa149.github.io/food-delivery",  // Updated homepage URL
+  "homepage": "https://Hamsa149.github.io/food-delivery",  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",      // Ensures the build process happens first
-    "deploy": "gh-pages -d build"     // Deploys the build folder to GitHub Pages
+    "predeploy": "npm run build",      
+    "deploy": "gh-pages -d build"     
   },
   "eslintConfig": {
     "extends": [
